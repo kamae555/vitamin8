@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+how to check my project
+
+1. when you enter "http://localhost:3000", it sets to redirect the page http://localhost:3000/light-mode
+2. ![스크린샷 2025-04-16 145443](https://github.com/user-attachments/assets/e8056ba5-b869-46d0-a422-5f29683f6daa)
+   I can see the very simple page that
+   " light mode activated
+   dark-mode light-mode "
+
+3. dark-mode, light-mode writing is the button that i can change the mode.
+   when i click the "dark-mode", light-mode changes to the dark-mode.
+
+   
+
+
+this is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
