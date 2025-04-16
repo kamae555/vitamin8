@@ -2,11 +2,13 @@ how to check my project
 
 1. when you enter "http://localhost:3000", it sets to redirect the page http://localhost:3000/light-mode
 2. ![스크린샷 2025-04-16 145443](https://github.com/user-attachments/assets/e8056ba5-b869-46d0-a422-5f29683f6daa)
+
+   (unfortunatley, i upload the dark-mode screenshot.)
    I can see the very simple page that
    " light mode activated
    dark-mode light-mode "
 
-3. dark-mode, light-mode writing is the button that i can change the mode.
+4. dark-mode, light-mode writing is the button that i can change the mode.
    when i click the "dark-mode", light-mode changes to the dark-mode.
 
    
